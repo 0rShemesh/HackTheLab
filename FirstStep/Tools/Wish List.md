@@ -6,3 +6,8 @@ I want to buy the best and the chippest one. Maybe I'd like to open Smartphone a
 I heard that Myfixit has good equipment but it may be expensive for me.
 [[Screws]]
 
+
+## PCB Driller 
+So expensive
+I think I need to split it to 2 parts
+The Driller itself and stand driller
