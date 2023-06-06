@@ -24,6 +24,6 @@ Complete lab that contains:
 
 I'll split here to parts the steps I should do for get that.
 
-### Step One - OSINT first tools
+### Step One - OSINT and first tools
 [[Wish List]] - building an list with all the initial tools I need
 
