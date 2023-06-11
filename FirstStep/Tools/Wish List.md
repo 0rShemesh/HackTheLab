@@ -11,3 +11,7 @@ I heard that Myfixit has good equipment but it may be expensive for me.
 So expensive
 I think I need to split it to 2 parts
 The Driller itself and stand driller
+
+Tweezers
+Need good one that fine
+[[Tweezers]]
